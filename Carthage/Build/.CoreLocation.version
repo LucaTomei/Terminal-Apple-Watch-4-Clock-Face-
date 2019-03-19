@@ -1,0 +1,15 @@
+{
+  "commitish" : "3.0.6",
+  "iOS" : [
+    {
+      "name" : "PMKCoreLocation",
+      "hash" : "80fde957994240d568aa755c8a6f13e7c6bca7a36312262334cc1e482c57c924"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "PMKCoreLocation",
+      "hash" : "6fabdddeac01ee9b876a1334652f974fd043672fb9479cad4c61651b0930e1d7"
+    }
+  ]
+}

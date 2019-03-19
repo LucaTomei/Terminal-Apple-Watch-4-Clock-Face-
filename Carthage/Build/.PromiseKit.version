@@ -1,0 +1,15 @@
+{
+  "commitish" : "6.7.0",
+  "iOS" : [
+    {
+      "name" : "PromiseKit",
+      "hash" : "878f39dac3dc8b7c453b1f89bec55d8bc6a8d2471329a504d3923038d3b17d3b"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "PromiseKit",
+      "hash" : "e235d1a92bd77b9530691f56e983790d85ec27a6ebbaf601039e2e39617f1536"
+    }
+  ]
+}

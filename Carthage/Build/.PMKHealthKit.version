@@ -1,0 +1,15 @@
+{
+  "commitish" : "1.0.0",
+  "iOS" : [
+    {
+      "name" : "PMKHealthKit",
+      "hash" : "a3cb6a1fbfffa1234566c58b2b79443c85fb9e73403796b2f3a6b3c333612e92"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "PMKHealthKit",
+      "hash" : "5dbe02c75866f10f038992cd2fff6c32578382adf9756b874a9b280582f03599"
+    }
+  ]
+}
